@@ -1,8 +1,8 @@
-<img src="banner.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Iftekhar%20Munim&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20and%20Engineering%20%7C%20Web%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://github.com/mdiftekharmunim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B3B3B3&center=true&vCenter=true&width=600&lines=Building+for+the+web.;Curious+about+how+computers+really+work.;Learning+something+new+every+day." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+for+the+web.;Curious+about+how+computers+really+work.;Learning+something+new+every+day." alt="Typing animation" />
   </a>
 </p>
 
@@ -12,12 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Internships-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Studying-CSE%20at%20IUB-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Internships-2c5364?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-203a43?style=flat-square" />
+  <img src="https://img.shields.io/badge/Studying-CSE%20at%20IUB-0f2027?style=flat-square" />
 </p>
-
-<img src="terminal.svg" width="100%" />
 
 ---
 
@@ -67,6 +65,8 @@ I learn best by building, so most of what you'll find here is practice turned in
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdiftekharmunim&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdiftekharmunim&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=B3B3B3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdiftekharmunim&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdiftekharmunim&layout=compact&theme=radical&hide_border=true&bg_color=0f2027" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
